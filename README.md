@@ -8,6 +8,8 @@ To use this skill, install it using the [Claude CLI](https://github.com/anthropi
 
 ```bash
 claude install athallabf/laravel-best-practices
+# or
+npx skills add https://github.com/athallabf/laravel-best-practices
 ```
 
 ## Structure
