@@ -12,6 +12,8 @@ claude install athallabf/laravel-best-practices
 npx skills add athallabf/laravel-best-practices
 ```
 
+If you don't use Claude, you can use `npx skills` to add the skill. It supports OpenCode, Claude Code, Codex, Cursor, and 36 more.
+
 ## Structure
 
 - `laravel-best-practices/`: Contains the actual skill definition (`SKILL.md`) and reference rules.
