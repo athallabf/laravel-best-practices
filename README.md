@@ -52,3 +52,7 @@ When building or reviewing Laravel code, ensure:
 3.  **Queries** are optimized (Eager loading).
 4.  **Logic** is testable and separated.
 5.  **Environment** variables are accessed via Config.
+
+## Credits
+
+This guide is heavily inspired by and adapted from the excellent [Laravel Best Practices](https://github.com/alexeymezenin/laravel-best-practices) repository by Alexey Mezenin. We recommend checking out the original repository for even more in-depth examples and translations.
