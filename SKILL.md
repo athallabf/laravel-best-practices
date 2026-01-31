@@ -5,7 +5,7 @@ description: "Comprehensive Laravel development guidelines for writing clean, ma
 
 # Laravel Best Practices
 
-A comprehensive guide to writing high-quality Laravel applications, inspired by Vercel's React Best Practices and community standards. Adhere to these rules to ensure your code is idiomatic, scalable, and maintainable.
+A comprehensive guide to writing high-quality Laravel applications, inspired by Vercel's React Best Practices and community standards. Adhere to these rules to ensure your code is idiomatic, scalable, and maintainable. Compatible with Laravel 10, 11, and 12.
 
 ## Core Categories
 
@@ -41,12 +41,12 @@ A comprehensive guide to writing high-quality Laravel applications, inspired by 
 
 ## How to Use
 
-Refer to the individual rule files in the `rules/` directory for detailed explanations, "Bad" examples, and "Good" examples:
+Refer to the individual rule files in the `references/` directory for detailed explanations, "Bad" examples, and "Good" examples:
 
 ```bash
-rules/fat-models-skinny-controllers.md
-rules/prevent-n-plus-one.md
-rules/no-env-directly.md
+references/fat-models-skinny-controllers.md
+references/prevent-n-plus-one.md
+references/no-env-directly.md
 ```
 
 ## Review Checklist
